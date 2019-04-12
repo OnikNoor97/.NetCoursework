@@ -1,0 +1,36 @@
+﻿<div class="container">
+
+    <!-- Modal -->
+    <div class="modal fade" id="@Model.AnnouncementsID" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Announcement Details</h4>
+                </div>
+
+
+                <div class="modal-body">
+                    <dl class="dl-horizontal">
+                        <dl>
+                            <dt>Title:</dt>
+                            <dd>@Model.Title</dd>
+                        </dl>
+                        <dl>
+                            <dt>Message</dt>
+                            <dd>@Model.Message</dd>
+                        </dl>
+                </div>
+
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>

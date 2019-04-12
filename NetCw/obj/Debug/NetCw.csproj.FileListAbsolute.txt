@@ -1,0 +1,140 @@
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\csc.exe
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\System.Collections.Immutable.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\System.Reflection.Metadata.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\vbc.exe
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\VBCSCompiler.exe
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\roslyn\VBCSCompiler.exe.config
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\NetCw.dll.config
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\NetCw.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\NetCw.pdb
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Antlr3.Runtime.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\EntityFramework.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\EntityFramework.SqlServer.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Google.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Web.Infrastructure.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Newtonsoft.Json.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Owin.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Helpers.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Mvc.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Optimization.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Razor.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.WebPages.Deployment.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.WebPages.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.WebPages.Razor.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\WebGrease.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Helpers.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Mvc.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Optimization.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.Razor.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.WebPages.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.WebPages.Deployment.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\System.Web.WebPages.Razor.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Antlr3.Runtime.pdb
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Newtonsoft.Json.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\EntityFramework.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\EntityFramework.SqlServer.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Google.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\obj\Debug\NetCw.dll
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\obj\Debug\NetCw.pdb
+H:\Data\Visual Studio 2015\Projects\NetCw\NetCw\obj\Debug\NetCw.csprojResolveAssemblyReference.cache
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\csc.exe
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\vbc.exe
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\VBCSCompiler.exe
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\NetCw.dll.config
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\NetCw.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\NetCw.pdb
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Antlr3.Runtime.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\EntityFramework.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\EntityFramework.SqlServer.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Newtonsoft.Json.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Owin.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Helpers.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Mvc.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Optimization.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Razor.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.WebPages.Deployment.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.WebPages.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.WebPages.Razor.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\WebGrease.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Helpers.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Mvc.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Optimization.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.Razor.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.WebPages.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.WebPages.Deployment.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\System.Web.WebPages.Razor.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Antlr3.Runtime.pdb
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Newtonsoft.Json.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\EntityFramework.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\EntityFramework.SqlServer.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\o_noo\Desktop\NetCw\NetCw\obj\Debug\NetCw.csproj.CoreCompileInputs.cache
+C:\Users\o_noo\Desktop\NetCw\NetCw\obj\Debug\NetCw.csproj.CopyComplete
+C:\Users\o_noo\Desktop\NetCw\NetCw\obj\Debug\NetCw.dll
+C:\Users\o_noo\Desktop\NetCw\NetCw\obj\Debug\NetCw.pdb
+C:\Users\o_noo\Desktop\NetCw\NetCw\obj\Debug\NetCw.csprojResolveAssemblyReference.cache

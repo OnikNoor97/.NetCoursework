@@ -1,0 +1,86 @@
+﻿@model IEnumerable<NetCw.Models.Member>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Date of Birth
+        </th>
+        <th>
+           Gender
+        </th>
+        <th>
+            Email Address
+        </th>
+        <th>
+            Home Address
+        </th>
+        <th>
+            Postcode
+        </th>
+        <th>
+            Telephone Number
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telephone)
+            </td>
+            <td>
+                @* @Html.ActionLink("Edit", "Edit", new { id=item.MemberID }) |
+        @Html.ActionLink("Details", "Details", new { id=item.MemberID }) |
+        @Html.ActionLink("Delete", "Delete", new { id=item.MemberID }) *@
+                <a href="/Members/Edit/@item.MemberID" class="btn btn-info">Edit</a>
+                <button type="button" class="btn btn-success" data-toggle="modal" data-target="#@item.MemberID">Details</button>
+                @*<a href="/Members/Details/@item.MemberID" class="btn btn-success">Details</a>*@
+                <a href="/Members/Delete/@item.MemberID" class="btn btn-danger">Delete</a>
+
+
+
+
+</tr>
+    }
+
+    @foreach (var lol in Model)
+    {
+        @Html.Partial("_Testing", lol);
+    }
+</table>
+
+
+
+

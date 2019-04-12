@@ -1,0 +1,44 @@
+﻿@model IEnumerable<NetCw.Models.Subject>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @* @Html.ActionLink("Edit", "Edit", new { id=item.SubjectID }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.SubjectID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.SubjectID })*@
+
+                <a href="/Subjects/Edit/@item.SubjectID" class="btn btn-info">Edit</a>
+                <button type="button" class="btn btn-success" data-toggle="modal" data-target="#@item.SubjectID">Details</button>
+                <a href="/Subjects/Delete/@item.SubjectID" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+
+    @foreach (var lol in Model)
+    {
+        @Html.Partial("_SubjectDetails", lol);
+    }
+
+</table>

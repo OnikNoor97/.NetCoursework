@@ -1,0 +1,56 @@
+﻿    <div class="container">
+
+        <!-- Modal -->
+        <div class="modal fade" id="@Model.MemberID" role="dialog">
+            <div class="modal-dialog"> 
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Member Details</h4>
+                    </div>
+
+
+                    <div class="modal-body">
+                        <dl class="dl-horizontal">
+                            <dl>
+                                <dt>Name:</dt>
+                                <dd>@Model.Name</dd>
+                            </dl>
+                            <dl>
+                                <dt>Date of Birth:</dt>
+                                <dd>@Model.DateOfBirth</dd>
+                            </dl>
+                            <dl>
+                                <dt>Gender:</dt>
+                                <dd>@Model.gender</dd>
+                            </dl>
+                            <dl>
+                                <dt>Email:</dt>
+                                <dd>@Model.Email</dd>
+                            </dl>
+                            <dl>
+                                <dt>Address:</dt>
+                                <dd>@Model.Address</dd>
+                            </dl>
+                            <dl>
+                                <dt>Postcode: </dt>
+                                <dd>@Model.PostCode</dd>
+                            </dl>
+                            <dl>
+                                <dt>Telephone: </dt>
+                                <dd>@Model.Telephone</dd>
+                            </dl>
+                    </div>
+
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<NetCw.Models.Announcements>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Announcements</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Message)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Message)
+        </td>
+        <td>
+            @*    @Html.ActionLink("Edit", "Edit", new { id=item.AnnouncementsID }) |
+        @Html.ActionLink("Details", "Details", new { id=item.AnnouncementsID }) |
+        @Html.ActionLink("Delete", "Delete", new { id=item.AnnouncementsID })*@
+
+            <a href="/Announcements/Edit/@item.AnnouncementsID" class="btn btn-info">Edit</a>
+            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#@item.AnnouncementsID">Details</button>
+            @*<a href="/Announcements/Details/@item.AnnouncementsID" class="btn btn-success">Details</a>*@
+            <a href="/Announcements/Delete/@item.AnnouncementsID" class="btn btn-danger">Delete</a>
+
+
+        </td>
+    </tr>
+}
+
+    @foreach (var lol in Model)
+    {
+        @Html.Partial("_AnnouncementDetails", lol)
+    }
+
+</table>
